@@ -12,8 +12,8 @@ What is your plan for the next 6 months?
 
 
 How would you contribute back to the club? 
-    I'm not very familiar with how the club works, but as long as I can learn new stuff while competing with others I'm happy to contribute however I can. As a fresher the best way I can contribute is by improving my skills and hope to be of much more help later. 
-    Of course once I'm at a satisfactory level, I hope to be like you guys who are willing teach freshers like me.
+    I'm not very familiar with how the club works, but as long as I can learn new stuff while competing with others I'm happy to contribute however I can. As a fresher the best way I can contribute is by improving my skills and hoping to be of much more help later. 
+    Of course, once I'm at a satisfactory level, I hope to be like you guys who are willing teach freshers like me.
 
 
 Do you have any feedback on the selection process?
