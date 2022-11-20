@@ -1,0 +1,17 @@
+/home/shrisharanyan/tasks/task-05/Client/obj/Debug/net6.0/Client.csproj.AssemblyReference.cache
+/home/shrisharanyan/tasks/task-05/Client/obj/Debug/net6.0/Client.GeneratedMSBuildEditorConfig.editorconfig
+/home/shrisharanyan/tasks/task-05/Client/obj/Debug/net6.0/Client.AssemblyInfoInputs.cache
+/home/shrisharanyan/tasks/task-05/Client/obj/Debug/net6.0/Client.AssemblyInfo.cs
+/home/shrisharanyan/tasks/task-05/Client/obj/Debug/net6.0/Client.csproj.CoreCompileInputs.cache
+/home/shrisharanyan/tasks/task-05/Client/bin/Debug/net6.0/Client
+/home/shrisharanyan/tasks/task-05/Client/bin/Debug/net6.0/Client.deps.json
+/home/shrisharanyan/tasks/task-05/Client/bin/Debug/net6.0/Client.runtimeconfig.json
+/home/shrisharanyan/tasks/task-05/Client/bin/Debug/net6.0/Client.dll
+/home/shrisharanyan/tasks/task-05/Client/bin/Debug/net6.0/ref/Client.dll
+/home/shrisharanyan/tasks/task-05/Client/bin/Debug/net6.0/Client.pdb
+/home/shrisharanyan/tasks/task-05/Client/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/shrisharanyan/tasks/task-05/Client/obj/Debug/net6.0/Client.csproj.CopyComplete
+/home/shrisharanyan/tasks/task-05/Client/obj/Debug/net6.0/Client.dll
+/home/shrisharanyan/tasks/task-05/Client/obj/Debug/net6.0/ref/Client.dll
+/home/shrisharanyan/tasks/task-05/Client/obj/Debug/net6.0/Client.pdb
+/home/shrisharanyan/tasks/task-05/Client/obj/Debug/net6.0/Client.genruntimeconfig.cache
