@@ -26,6 +26,7 @@ And then 'git pull' is for pulling whatever we push into the branch's repository
 My Experience:
 This task got on my nerves and the time I spent on it was one of the most annoying and stressful time ever. It is not because of the difficulty but the speed of the wifi. I just have to say this that we who tried this task using Amrita-Connect wifi have had to put down our laptops and try later too many times because of frustratingly slow wifi(so much time wasted, ughh). We kept getting errors because terminal didn't get properly configured with github account or something. Especially when trying to commit a file to the repository. 
 Overall, the task itself seemed a lot of fun(like a treasure hunt) but I couldn't really enjoy it because of the poor wifi connection. 
+I'm sorry but the shitty wifi was too much for me, so I used the GUI but only for the last push and pull. Kept showing the same error and when I googled it it turned out to be an internet issue. But I know the commands and could have finished it peacefully if not for the bad wifi. 
 
 [Secret-Scroll.pdf](https://github.com/spellsharp/amfoss-tasks/files/10005891/Secret-Scroll.pdf)
 [password.txt](https://github.com/spellsharp/amfoss-tasks/files/10005894/password.txt)
