@@ -1,0 +1,20 @@
+def fib(n):   
+    fibo = 0
+    if n == 1 or n == 0: 
+        fibo = 1
+    else:
+        fibo = fib(n-1) + fib(n-2)
+    return fibo
+
+ans = 0
+t = int(input())
+for i in range(0,t):
+    n = int(input())
+    for i in range(0,n):
+        x = fib(i)
+        if x>n:
+            break
+        if x % 2 == 0:
+            ans+=x
+    print(ans)
+    ans = 0
