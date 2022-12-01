@@ -18,7 +18,3 @@ for i in range(0,t):
             ans+=x
     print(ans)
     ans = 0
-
-
-/* I'm guessing you're wondering how I know recursion; and NO, I didn't copy the code from google. My father taught me a bit about this a few months ago after he saw me doing it with a bunch of loops. 
-The time complexity still kills me though*/
