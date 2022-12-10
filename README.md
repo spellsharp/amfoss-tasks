@@ -14,6 +14,7 @@
 [Task-08](https://github.com/spellsharp/amfoss-tasks/tree/main/Task08)|Internet Explorer|Completed
 [Task-09](https://github.com/spellsharp/amfoss-tasks/tree/main/Task09)|Krypto Scraper|Completed
 [Task-10](https://github.com/spellsharp/amfoss-tasks/tree/main/Task10)|CS50|Finished Week1&2 Problem Set
+[Optional Tasks]
 [Task-11](https://github.com/spellsharp/amfoss-tasks/tree/main/Task11)|Figma Ninja|Not Attempted till yet
 [Task-12](https://github.com/spellsharp/amfoss-tasks/tree/main/Task12)|Bunny Heist|Not Attempted till yet 
 [Task-13](https://github.com/spellsharp/amfoss-tasks/tree/main/Task13)|Footfall Counter(Arduino)|Not Attempted till yet
