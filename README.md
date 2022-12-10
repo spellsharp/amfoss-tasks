@@ -35,4 +35,4 @@ But the tasks helped me gain a better understanding of what I could be doing in 
 Please spare the lack of technicality in my speech, but another thing about the tasks were that they sucked. They were gruesome.
 But the competetion was worse. But I suppose that is required in a screening. 
 Enough about my struggles;
-My hobbies include singing and reading webnovels/lightnovels/novels. I have been learning music for about 8 years and plan on continuing to learn music throughout college. I also like watching sitcoms. I just started FRIENDS in my free time. 
+My hobbies include singing and reading webnovels/lightnovels/novels. I have been learning music for about 8 years and plan on continuing to learn music throughout college. I also like watching sitcoms. I just started F.R.I.E.N.D.S in my free time. 
