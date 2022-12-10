@@ -1,7 +1,7 @@
 a. Why must we choose you?
     I'm passionate about coding and I love to discuss my passion. I opted for biology in class 11 with the confidence of catching up to my Computer Science peers quickly. It is still a work in progress though.     I'm fairly proficient in Python and C++. I have a decent understanding of the concepts in general. My logical thinking is also high enough to understand most of what I learn quickly. Even if I don't, as I said, I love to discuss stuff like this. 
     Most of all, I'm very interested in learning what I don't know, and my open mind and curiosity is what defines me as a good candidate. I truly hope to learn from my amFOSS seniors.
-
+    My other hobbies are Singing and if I may, I'm pretty good at that too; so if you need me to sing, I'll also be there for you guys. 
 
 
 What is your plan for the next 6 months?
