@@ -1,6 +1,6 @@
 # amfoss-tasks-
 # Shrisharanyan Vasu
-**I am Shrisharanyan Vasu from Chennai, Tamil Nadu,fresher at Amrita School of Engineering(CSE-AI B 2022)**
+**I am Shrisharanyan Vasu from Chennai, Tamil Nadu,fresher at Amrita Vidya Vishwapeetham(CSE-AI B 2022)**
 **Tasks List**|**Description**|**Status**
 --------------|---------------|---------------
 [Task-00](https://github.com/spellsharp/amfoss-tasks/tree/main/Task00)|Installing Ubuntu|Completed
