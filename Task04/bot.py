@@ -16,13 +16,13 @@ def greet(message):
     global botRunning
     botRunning = True
     bot.reply_to(
-        message, 'Hey there mothaf*ker, whatcha want?!.\n\n')
+        message, 'Hey, Im CineSharanBot, the useful bot that is going to give you all the useful data you want on the movie you need. .\n\n')
     
 @bot.message_handler(commands=['stop', 'bye'])
 def goodbye(message):
     global botRunning
     botRunning = False
-    bot.reply_to(message, 'Adios, BITCH!!\n\n')
+    bot.reply_to(message, 'Bye bye, I hope to see you again\n\n')
     
 
 
