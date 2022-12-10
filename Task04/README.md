@@ -1,41 +1,6 @@
-## 📌 Introduction
-This is a Python Telegram bot challenge for Praveshan 2022.
-
-## 🏃‍ Getting Started
-- Fork this repository and then clone it.
-- Create a Python virtual environment in the directory, and activate it:
-  ```sh
-  python3 -m venv .
-  source bin/activate
-  ```
-- Install required packages:
-  ```sh
-  pip3 install -r requirements.txt
-  ```
-- To run the bot (for testing):
-  ```sh
-  python3 bot.py
-  ```
-
-## 🧱 Stages
-   - **Stage 1:** Fetching Movie Data from the OMDB API and displaying it to the Telegram chatbox.
-   
-      - 3 TODOs from 1.1 to 1.3. 
-  
-  - **Stage 2:** Dumping the Movie Data to a CSV File.
-
-      - 2 TODOs 2.1 and 2.2.
-
-  - **Stage 3:** **OPTIONAL** Deploy the bot to [Replit](https://replit.com/).
-
-## 🎓 Resources
-- [OMDB API](https://www.omdbapi.com/)
-- [pyTelegramBotAPI](https://pypi.org/project/pyTelegramBotAPI/0.3.0/)
-- [BotFather](https://medium.com/shibinco/create-a-telegram-bot-using-botfather-and-get-the-api-token-900ba00e0f39)
-
-## 📝 Submission Guidelines
-Add the Python script to the task-4 folder in your amfoss-tasks repository.
-
-
-## 👀 Live Bot Preview
-- [Bot Link](https://t.me/OMDBTESTbot)
+Telegram bot was a bit confusing since I was focused on resolving my ENV_VARs. But I found out that I could just directly add my botToken and omdbAPI to the code. I figured that the ENV_VAR thing was for the safety of my code since anybody who gets access to my code now also has access to my API token and bot token. But since I couldn't proceed at all when I was trying the dotenv method, I just skipped that part. I'll learn how to set my ENV_VAR in linux soon. I googled a lot. A lot. 
+Then I used the request-get method to fetch my data, and I converted it from json to text format.
+Then I appended the data to a list I created. And then I used the keys from the dictionary in the json file to access whatever data I wanted. 
+Now using the bot.send_photo etc was all easy, but I had to google to find how to put my data into a csv file. I had some experience in it since I did the Rust task before.  
+Oh yeah, there were a few things I added for debugging to make sure my code even reached a certain stage; I haven't removed them. 
+Personal Experience: Like I previously mentioned I was struggling with the dotenv etc so I had initially given up on the task. Then after a week I met a friend  who claimed he had the same issue and that he didn't need to use dotenv. And that got me googling. 
