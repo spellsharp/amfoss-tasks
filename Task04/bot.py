@@ -41,7 +41,7 @@ def getMovie(message):
     print ("reached here")
     global movie 
     movie = []
-    movie_req = requests.get(f"https://www.omdbapi.com/?apikey=e2700b5c&t={movie_name}")
+    movie_req = requests.get(f"https://www.omdbapi.com/?apikey={yourkey}&t={movie_name}")
     repsponse = movie_req.status_code
     print (repsponse)
     print ("reached part 2")
