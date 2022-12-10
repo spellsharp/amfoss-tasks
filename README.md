@@ -4,7 +4,7 @@
 **Tasks List**|**Description**|**Status**
 --------------|---------------|---------------
 [Task-00](https://github.com/spellsharp/amfoss-tasks/tree/main/Task00)|Installing Ubuntu|Completed
-[Task-01](https://github.com/spellsharp/amfoss-tasks/tree/main/Task01)|Staring amFOSS repositories|Completed
+[Task-01](https://github.com/spellsharp/amfoss-tasks/tree/main/Task01)|Starring amFOSS repositories|Completed
 [Task-02](https://github.com/spellsharp/amfoss-tasks/tree/main/Task02)|Terminal Hunt|Completed
 [Task-03](https://github.com/spellsharp/amfoss-tasks/tree/main/Task03)|Programming|Done Two Questions
 [Task-04](https://github.com/spellsharp/amfoss-tasks/tree/main/Task04)|CineBot|Completed
