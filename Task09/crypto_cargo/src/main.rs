@@ -30,10 +30,6 @@ fn main() {
     let mut volume: Vec<String> = vec![String::new(); 0];
     let mut markcap: Vec<String> = vec![String::new(); 0];
 
-   for i in titles{titname.push(i);}
-   for i in prices{cryprice.push(i);}
-   for i in changes{changepri.push(i);}
-
    let mut j=0;
 
    for i in common
@@ -48,6 +44,10 @@ fn main() {
     }
     j+=1;
    }
+    
+   for i in titles{titname.push(i);}
+   for i in prices{cryprice.push(i);}
+   for i in changes{changepri.push(i);}
 
    let mut wtr=csv::Writer::from_path("cryptocargo.csv").unwrap();
    wtr.write_record(&["Name","Price","Change Rate", "24hr Hour volume", "Market Cap"]).unwrap();
