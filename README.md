@@ -10,7 +10,7 @@
 [Task-04](https://github.com/spellsharp/amfoss-tasks/tree/main/Task04)|CineBot|Completed
 [Task-05](https://github.com/spellsharp/amfoss-tasks/tree/main/Task05)|Find The Bug|Completed
 [Task-06](https://github.com/spellsharp/amfoss-tasks/tree/main/Task06)|Flame game|Completed
-[Task-07](https://github.com/spellsharp/amfoss-tasks/tree/main/Task07)|Go WASM|Not Attempted till yet
+[Task-07](https://github.com/spellsharp/amfoss-tasks/tree/main/Task07)|Go WASM|Completed
 [Task-08](https://github.com/spellsharp/amfoss-tasks/tree/main/Task08)|Internet Explorer|Completed
 [Task-09](https://github.com/spellsharp/amfoss-tasks/tree/main/Task09)|Krypto Scraper|Completed
 [Task-10](https://github.com/spellsharp/amfoss-tasks/tree/main/Task10)|CS50|Finished Week1&2 Problem Set
