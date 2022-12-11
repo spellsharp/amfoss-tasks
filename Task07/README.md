@@ -10,3 +10,6 @@ And then the time came for me to move to my html. I copied the html from the sit
 Then after I checked that it worked on the console, I used the innerhtml thing to  put that onto my website's page (I'm sure you guys know what I'm talking about because I'm not really sure about that part yet, I'll refer some more to understand that)
 It worked on the console, no reason to not work on the website. 
 The task itself is very easy. But the lack of resource  materials, the new concept of Wasm, and poor understanding of the link between frontend and backend was what caused the most confusion. But the biggest reason was definitely the Golang; the syntax was totally new and the entire concept of linking my Go to html was just very intimidating. If I was told to do the entire thing again, it wouldn't take me more than an 30mins with the resources. 
+
+umm.., if you are going to run this to check then localhost:8080 is what you need after downloading/cloning my repo. That's how it is in my server.go
+Thanks.
