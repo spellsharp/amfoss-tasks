@@ -2,20 +2,14 @@ package main
 
 import (
     "syscall/js"
-    "strconv"
 )
 
 var Count = 0
 
 func add(this js.Value, i []js.Value) interface{} {
-	value1 := strconv.Itoa(1)
-    value2 := strconv.Itoa(Count)
-    
-    int1, _ := strconv.Atoi(value1)
-    int2, _ := strconv.Atoi(value2)
 
-    js.Global().Set("output", int2+int1)
-    Count = int1 + int2
+    js.Global().Set("output", Count+1)
+    Count = Count + 1
     println(Count)
     document := js.Global().Get("document")
 	    document.Call("getElementById", "int").Set("innerHTML", Count)
@@ -23,13 +17,8 @@ func add(this js.Value, i []js.Value) interface{} {
 }
 
 func subtract(this js.Value, i []js.Value) interface{} {
-    value1 := strconv.Itoa(1)
-    value2 := strconv.Itoa(Count)
-    
-    int1, _ := strconv.Atoi(value1)
-    int2, _ := strconv.Atoi(value2)
-    js.Global().Set("output", int2-int1)
-    Count = int2 - int1
+    Count = Count - 1
+    js.Global().Set("output", Count-1)
     println(Count)
     document := js.Global().Get("document")
 	    document.Call("getElementById", "int").Set("innerHTML", Count)
