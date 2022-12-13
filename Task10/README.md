@@ -1,1 +1,4 @@
-
+The CS50 videos were helpful in reaffirming my foundations. How most of the stuff works and what the difference between some concepts is. 
+The solution for the problem sets are very much in the internet so I copied them. But I made sure to understand every line of code. 
+The Week4 - Memory would have been very confusing to even understand without the CS50 lecture and a few tutorials in youtube. Aside from that, the only challenge faced was making time for the lectures. Two hours per video is indeed a lot. Spending two hours everyday on this seemed like a simple task, but in actuality it was hard to set time for it. The other tasks were strenuous enough, and on top of it, we had homework, classtests, quizzes, lab assingments, submissions, etc.
+But for someone without much of a programming background, this was a very useful task.
