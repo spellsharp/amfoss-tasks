@@ -6,7 +6,7 @@ I'm fairly proficient in Python and C++. I have a decent understanding of the co
    
 Most of all, I'm very interested in learning what I don't know, and my open mind and curiosity is what defines me as a good candidate. I truly hope to learn from my amFOSS seniors.
     
-My other hobbies are Singing and if I may, I'm pretty good at that too; so if you need me to sing, I'll also be there for you guys. 
+My other hobbies are Singing and I think I'm pretty good at that too; so if you need me to sing, I'll be there for you guys😂
 
 
 ## What is your plan for the next 6 months?
