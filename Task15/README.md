@@ -1,1 +1,3 @@
-All of the questions had easy logics. But the time complexity was a huge problem for me. I am just gonna excuse myself because I took biology and just started coding a few months ago. I am not at the level writing efficient codes. I can get the job done with quick fixes at my level. But as I continue to code I do see some changes in my coding, so I'm sure that I can improve as long as I keep at it. I haven't gotten the full score in any of the euler problems so far but I'm just gonna add whatever I've done. 
+I didn't finish all questions. I finished two questions in euler. Then I realized that the compulsory tasks were more important so I resumed doing that. 
+The two questions were logically simple, but the coding was tough because of the time constraint. 
+I didn't do much in this task so I don't have much in particular to share.
