@@ -25,14 +25,12 @@ Now that I'm reaching the deadline for submission, I have to say that the screen
 But along the way I realised that maybe the actual meaning to the task was to see whether we could handle the stress or not.
 Whether we give up or keep at it even if it is scary. Also my dear mentors were actually very nice. 
 Although I didn't expect direct help from them, I needed their guidance occationally. 
+The tasks were a nightmare but the competetion was the worst. But I suppose that is what distinguishes someone.
 
 ## My Introduction
 Hii Seniors :pray: I'm Shrisharanyan Vasu, from Chennai, Tamil Nadu. I prefer to go by Sharan though.
 I'm a fresher in the CSE-AI batch of 2022. I come from a no-computer background (as I have said in most of the READMEs of the tasks).
 I have no intention of using that as an excuse or something; I actually want to say that the tasks were truly a new experience for me. 
-Before a month, I had no exposure to anything practical in coding. Be it Rust, Dart or any programming language other than C++ or Python, I knew but an inkling of their existence.
-But the tasks helped me gain a better understanding of what I could be doing in the future now that I'm in the field of programming.
-Please spare the lack of technicality in my speech, but another thing about the tasks were that they sucked. They were gruesome.
-But the competetion was worse. But I suppose that is required in a screening. 
-Enough about my struggles;
-My hobbies include singing and reading webnovels/lightnovels/novels. I have been learning music for about 8 years and plan on continuing to learn music throughout college. I also like watching sitcoms. I just started F.R.I.E.N.D.S in my free time. 
+Before a month, I had no exposure to anything practical in coding. Be it Rust, Dart or any programming language other than C++ or Python, I knew but an inkling of their existence. But the tasks helped me gain a better understanding of what I could be doing in the future now that I'm in the field of programming.
+
+My hobbies include singing and reading lightnovels/novels. I have been learning music for about 8 years and plan on continuing to learn music throughout college. I also like watching sitcoms. I have watched quite a few. I just started F.R.I.E.N.D.S in my free time. I had pushed it aside for a while now. 
