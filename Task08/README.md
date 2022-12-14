@@ -7,3 +7,7 @@ Editing the styling(CSS) was very easy. I used google font for fonts, and the ot
 It was the simplest task for me even though it was not that easy. 
 
 
+
+
+https://user-images.githubusercontent.com/115102691/207617324-18e7cd98-f8c7-4dcd-95f7-285a894dd866.mp4
+
