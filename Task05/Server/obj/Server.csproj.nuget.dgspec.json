@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/shrisharanyan/tasks/task-05/Server/Server.csproj": {}
+    "/home/shrisharanyan/amfoss-tasks/Task05/Server/Server.csproj": {}
   },
   "projects": {
-    "/home/shrisharanyan/tasks/task-05/Server/Server.csproj": {
+    "/home/shrisharanyan/amfoss-tasks/Task05/Server/Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/shrisharanyan/tasks/task-05/Server/Server.csproj",
+        "projectUniqueName": "/home/shrisharanyan/amfoss-tasks/Task05/Server/Server.csproj",
         "projectName": "Server",
-        "projectPath": "/home/shrisharanyan/tasks/task-05/Server/Server.csproj",
+        "projectPath": "/home/shrisharanyan/amfoss-tasks/Task05/Server/Server.csproj",
         "packagesPath": "/home/shrisharanyan/.nuget/packages/",
-        "outputPath": "/home/shrisharanyan/tasks/task-05/Server/obj/",
+        "outputPath": "/home/shrisharanyan/amfoss-tasks/Task05/Server/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/shrisharanyan/.nuget/NuGet/NuGet.Config"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/dotnet6-6.0.110/sdk/6.0.110/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.111/RuntimeIdentifierGraph.json"
         }
       }
     }

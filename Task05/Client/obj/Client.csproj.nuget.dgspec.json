@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/shrisharanyan/tasks/task-05/Client/Client.csproj": {}
+    "/home/shrisharanyan/amfoss-tasks/Task05/Client/Client.csproj": {}
   },
   "projects": {
-    "/home/shrisharanyan/tasks/task-05/Client/Client.csproj": {
+    "/home/shrisharanyan/amfoss-tasks/Task05/Client/Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/shrisharanyan/tasks/task-05/Client/Client.csproj",
+        "projectUniqueName": "/home/shrisharanyan/amfoss-tasks/Task05/Client/Client.csproj",
         "projectName": "Client",
-        "projectPath": "/home/shrisharanyan/tasks/task-05/Client/Client.csproj",
+        "projectPath": "/home/shrisharanyan/amfoss-tasks/Task05/Client/Client.csproj",
         "packagesPath": "/home/shrisharanyan/.nuget/packages/",
-        "outputPath": "/home/shrisharanyan/tasks/task-05/Client/obj/",
+        "outputPath": "/home/shrisharanyan/amfoss-tasks/Task05/Client/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/shrisharanyan/.nuget/NuGet/NuGet.Config"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/dotnet6-6.0.110/sdk/6.0.110/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.111/RuntimeIdentifierGraph.json"
         }
       }
     }

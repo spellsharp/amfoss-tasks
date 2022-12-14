@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tAi0lyTcYSZp2i9So1ZQ/35d3t9Mwc3OofwSgC7rdhKpFJ2FJLxukeql/R9zBWwahI6BgMfhEkcHrWAShMIJIg==",
+  "dgSpecHash": "rpb9qSY67WKsA2MbRG3pyhFcPeBK7Lw7OmZeQ+VwAaOdzAk2wZzEp1TiUGmlChQDB7xSpVh9HQqPaWdgDsF/Pw==",
   "success": true,
-  "projectFilePath": "/home/shrisharanyan/tasks/task-05/Server/Server.csproj",
+  "projectFilePath": "/home/shrisharanyan/amfoss-tasks/Task05/Server/Server.csproj",
   "expectedPackageFiles": [
     "/home/shrisharanyan/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
   ],
