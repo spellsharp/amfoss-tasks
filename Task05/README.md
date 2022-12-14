@@ -3,3 +3,10 @@ So yep. I liked this task quite a lot since it had very neat instructions and it
 
 The link that I referred to:
 https://www.c-sharpcorner.com/article/socket-programming-in-C-Sharp/
+
+
+
+
+
+https://user-images.githubusercontent.com/115102691/207613423-3e4ea077-e0ba-4635-ada9-c7c6be8ad80f.mp4
+
