@@ -15,8 +15,6 @@ From what I see, I have less than a month to finish my amFOSS tasks. After I'm s
 
 I chose to join the "Intro To Cyber Security And Ethical Hacking" workshop because I might not have a better chance to learn about this later. I plan on doing that by discussing with my roommates and friends who took the open source workshop.
 
-Next month I have my mid terms so my plan to learn new stuff might be delayed. 
-
 I don't want to plan 6 months ahead in too much detail because I don't believe there won't be any setbacks. I would rather face what is thrown at me head-on. 
 
 
